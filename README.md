@@ -7,6 +7,6 @@ Project Description : Comparing and contrasting traffic violation data among maj
 
 Research Questions to Answer : Who has the most traffic violations per capita?, Which violations are the most popular in each city?,  
 
-Datasets to be Used : data.cityofchicago.org, data.cityofnewyork.us, data.LAcity.org, 
+Datasets to be Used : data.cityofchicago.org, data.cityofnewyork.us, 
 
 Rough Breakdown of Task : Each group member takes assigned city and gathers data.
