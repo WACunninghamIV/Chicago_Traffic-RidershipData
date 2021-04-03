@@ -1,3 +1,8 @@
+Red_Light_Camera_Violations.csv
+CTA_-_Ridership_-_Bus_Routes_-_Daily_Totals_by_Route.csv
+Speed_Camera_Violations 2.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
