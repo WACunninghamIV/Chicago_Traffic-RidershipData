@@ -1,4 +1,3 @@
-# Week7-8Project
 Project Title : Traffic violations and bus ridership in Chicago before and during the pandemic
 
 Team Members : Walter, Jacqueline, Victoria
